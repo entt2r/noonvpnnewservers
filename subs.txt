@@ -1,0 +1,8 @@
+#profile-update-interval: 1
+#profile-title: 🔆Noon VPN 2.0
+#support-url: https://t.me/noonvpnsupport
+#profile-web-page-url: https://t.me/noon_vpn_bot
+#announce: 🆕 Обновленная подписка для Noon VPN
+#announce: ‼️ Обязательно продливайте вовремя в боте @noon_vpn_bot
+#announce: ✅ Все сервера обходят WhiteList
+vless://65259548-1d98-07d0-a7f9-1937927c68e9@5.188.143.9:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%237
